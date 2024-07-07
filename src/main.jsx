@@ -6,6 +6,8 @@ import AppState from "./context/AppState.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <AppState>
+
     <App />
+    
   </AppState>
 );
